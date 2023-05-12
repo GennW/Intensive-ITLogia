@@ -147,8 +147,7 @@ body {
     line-height: 29px;
     margin-bottom: 56px;
 }
-.main-action {
-}
+
 
 .main-img {
     position: absolute;
@@ -177,8 +176,7 @@ body {
 .why-item {
     text-align: center;
 }
-.why-item-img {
-}
+
 .why-item-title {
     font-weight: 600;
     font-size: 24px;
@@ -233,8 +231,7 @@ body {
     display: flex;
     justify-content: space-between;
 }
-.products-item-info {
-}
+
 .products-item-price {
     font-size: 32px;
     line-height: 39px;
@@ -244,8 +241,6 @@ body {
     font-size: 16px;
     line-height: 18px;
     color: #757575;
-}
-.products-item-action {
 }
 
 .button.prodiuct-button {
@@ -316,6 +311,9 @@ body {
     height: 60px;
     outline: none;
     border: 1px solid transparent;
+    color: #757575;
+    font-size: 16px;
+    line-height: 140%;
 }
 
 .order-form-inputs .button {
