@@ -115,7 +115,7 @@ body {
 /* main-content */
 
 .main-content {
-    padding-top: 183px;
+    padding-top: 103px;
     padding-bottom: 199px;
 }
 
@@ -130,7 +130,7 @@ body {
     background: #D3320F;
     border-radius: 100px;
     padding: 12px 16px;
-    font-style: 18px;
+    font-size: 18px;
 }
 .main-title {
     font-family: 'Merriweather', sans-serif;
