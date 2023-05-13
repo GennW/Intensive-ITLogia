@@ -102,7 +102,7 @@ body {
 .currency {
     border: 1px solid #FFFFFF;
     border-radius: 5px;
-    width: 45px;
+    min-width: 45px;
     height: 45px;
     padding: 6px;
     text-align: center;
