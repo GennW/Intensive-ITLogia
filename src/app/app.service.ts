@@ -8,6 +8,8 @@ export class AppService {
 
   constructor(private http: HttpClient) { }
 
+
+
   sendOrder(data: any) {
     return this.http.post('https://testologia.site/burgers-order', data);
   }
